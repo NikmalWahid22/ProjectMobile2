@@ -96,13 +96,13 @@ Antarmuka dirancang menggunakan XML dengan pendekatan:
 
 | Halaman | Preview | Halaman | Preview |
 |--------|---------|--------|---------|
-| Splash Screen | <img src="Splash.png" width="220"/> | Pilih Bahasa | <img src="Bahasa.png" width="220"/> |
-| Welcome | <img src="Welcome.png" width="220"/> | Login | <img src="SIgnIn.png" width="220"/> |
-| Register | <img src="CreateAccount.png" width="220"/> | Home | <img src="Home(Update).png" width="220"/> |
-| Search | <img src="Search UI(Update).png" width="220"/> | Cart | <img src="Cart(Update).png" width="220"/> |
-| Profile | <img src="Profile(Update).png" width="220"/> | Detail Produk | <img src="Detail(Update).png" width="220"/> |
-| Keranjang Update | <img src="Cart2(Update).png" width="220"/> | Tracking Order | <img src="OrderTracking(Update).png" width="220"/> |
-| Final Order | <img src="FinalizeOrder(Update).png" width="220"/> | Success Order | <img src="Success(Update).png" width="220"/> |
+| Splash Screen | <img src="UIDesign/Splash.png" width="220"/> | Pilih Bahasa | <img src="UIDesign/Bahasa.png" width="220"/> |
+| Welcome | <img src="UIDesign/Welcome.png" width="220"/> | Login | <img src="UIDesign/SIgn In.png" width="220"/> |
+| Register | <img src="UIDesign/Create Account.png" width="220"/> | Home | <img src="UIDesign/Home (Update).png" width="220"/> |
+| Search | <img src="UIDesign/Search UI (Update).png" width="220"/> | Cart | <img src="UIDesign/Cart(Update).png" width="220"/> |
+| Profile | <img src="UIDesign/Profile(Update).png" width="220"/> | Detail Produk | <img src="UIDesign/Detail(Update).png" width="220"/> |
+| Keranjang Update | <img src="UIDesign/Cart2(Update).png" width="220"/> | Tracking Order | <img src="UIDesign/OrderTracking(Update).png" width="220"/> |
+| Final Order | <img src="UIDesign/Finalize Order(Update).png" width="220"/> | Success Order | <img src="UIDesign/Success(Update).png" width="220"/> |/> |
 
 
 # 5. Pengujian dan Evaluasi 
