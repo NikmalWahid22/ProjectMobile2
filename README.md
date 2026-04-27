@@ -93,13 +93,7 @@ Berdasarkan implementasi versi sebelumnya, ditemukan beberapa kekurangan:
 
 ## 4.3 Cuplikan Tampilan Aplikasi 
 
-## Mockup Dan Storyboard 
-
-![Gambar 1](Mockup.png)
-![Gambar 2](Storyboard.png)
-
-
-## Cuplikan Tampilan Aplikasi (Design Figma) 
+## Cuplikan Tampilan Aplikasi User (Design Figma) 
 
 | Halaman | Preview | Halaman | Preview |
 |--------|---------|--------|---------|
@@ -123,24 +117,13 @@ Pada semester ini dilakukan beberapa pengembangan utama, yaitu:
 7. Penyempurnaan alur checkout.
 
 # 5. Pengujian dan Evaluasi 
-
 Pengujian dilakukan secara fungsional dengan memastikan setiap fitur berjalan sesuai dengan kebutuhan sistem. Berdasarkan hasil pengujian:
 - Aplikasi dapat berjalan dengan baik tanpa error utama.
 - Seluruh fitur utama dapat digunakan sesuai rancangan.
 - Penyimpanan data lokal berjalan dengan stabil.
 
-# 6. Kesimpulan dan Saran 
-## 6.1 Kesimpulan
-Aplikasi CampEats berhasil dikembangkan sebagai aplikasi pemesanan makanan kampus berbasis Android. Aplikasi ini mampu mengelola menu, transaksi, serta data pengguna secara lokal dengan baik dan memberikan pengalaman pengguna yang cukup optimal.
-
-## 6.2 Saran 
-Pengembangan selanjutnya dapat dilakukan dengan:
-
-- Penambahan metode pembayaran digital
-- Implementasi notifikasi real-time
-- Pengembangan versi multiplatform
-
-
+# 6. Kesimpulan 
+Hasil pengembangan lanjutan menunjukkan bahwa aplikasi CampEats mengalami peningkatan signifikan dari sisi tampilan, fitur, dan pengalaman pengguna dibanding versi sebelumnya.
 
 
 
