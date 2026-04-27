@@ -1,3 +1,5 @@
+# Pengembangan Aplikasi CampEats Berbasis Android dengan Peningkatan UI/UX dan Fitur Manajemen Pesanan
+
 ### - Nama: Muhamad Nikmal Wahid
 ### - Kelas: I241C
 ### - Nim: 312410372
@@ -67,6 +69,14 @@ Antarmuka dirancang menggunakan XML dengan pendekatan:
 - Navigasi menggunakan Bottom Navigation
 - Konsistensi warna dan komponen Material Design
 
+## 3.4 Evaluasi Sistem Sebelumnya 
+Berdasarkan implementasi versi sebelumnya, ditemukan beberapa kekurangan:
+- Tampilan antarmuka masih sederhana
+- Belum tersedia tracking status pesanan
+- Belum tersedia sistem pembayaran yang lebih terstruktur
+- Dashboard admin masih terbatas
+- Fitur CRUD menu belum optimal
+
 # 4. Implementasi Sistem 
 ## 4.1 Teknologi Yang Digunakan 
 
@@ -89,7 +99,7 @@ Antarmuka dirancang menggunakan XML dengan pendekatan:
 ![Gambar 2](Storyboard.png)
 
 
-## Cuplikan Tampilan Aplikasi
+## Cuplikan Tampilan Aplikasi (Design Figma) 
 
 | Halaman | Preview | Halaman | Preview |
 |--------|---------|--------|---------|
@@ -101,6 +111,16 @@ Antarmuka dirancang menggunakan XML dengan pendekatan:
 | Keranjang Update | <img src="UIDesign/Cart2(Update).png" width="220"/> | Tracking Order | <img src="UIDesign/OrderTracking(Update).png" width="220"/> |
 | Final Order | <img src="UIDesign/FinalizeOrder(Update).png" width="220"/> | Success Order | <img src="UIDesign/Success(Update).png" width="220"/> |/> |
 
+## 4.4 Cuplikan Tampilan Aplikasi 
+Pada semester ini dilakukan beberapa pengembangan utama, yaitu:
+
+1. Redesign tampilan aplikasi dengan konsep modern minimalis.
+2. Penambahan halaman tracking pesanan.
+3. Penambahan metode pembayaran digital.
+4. Pengembangan dashboard admin.
+5. Penambahan fitur CRUD menu makanan.
+6. Optimalisasi navigasi pengguna.
+7. Penyempurnaan alur checkout.
 
 # 5. Pengujian dan Evaluasi 
 
