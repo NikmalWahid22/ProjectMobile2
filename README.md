@@ -111,7 +111,7 @@ Berdasarkan implementasi versi sebelumnya, ditemukan beberapa kekurangan:
 | Keranjang Update | <img src="UIDesign/Cart2(Update).png" width="220"/> | Tracking Order | <img src="UIDesign/OrderTracking(Update).png" width="220"/> |
 | Final Order | <img src="UIDesign/FinalizeOrder(Update).png" width="220"/> | Success Order | <img src="UIDesign/Success(Update).png" width="220"/> |/> |
 
-## 4.4 Cuplikan Tampilan Aplikasi 
+## 4.4 Pengembangan Fitur Lanjutan
 Pada semester ini dilakukan beberapa pengembangan utama, yaitu:
 
 1. Redesign tampilan aplikasi dengan konsep modern minimalis.
