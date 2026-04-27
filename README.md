@@ -4,16 +4,13 @@
 ### - Mata Kuliah: Pemrograman Mobile 2
 ### - Dosen Pengampu: Donny Maulana, S.Kom., M.M.S.I.,
 
-### Link Video: https://youtu.be/A3Y0fhpCb6o?si=Q-u1eCcjRXdd7olB
 ### LInk Clickup:  https://sharing.clickup.com/90181799294/l/h/4-90187327418-1/979bc9884f335c5
 
 # 1. Pendahuluan 
 
 ## 1.1 Latar Belakang
 
-Perkembangan teknologi mobile telah mendorong digitalisasi berbagai aktivitas sehari-hari, termasuk dalam bidang layanan makanan. Di lingkungan kampus, proses pemesanan makanan masih sering dilakukan secara manual, yang berpotensi menimbulkan antrean, kesalahan pencatatan pesanan, serta kurangnya efisiensi waktu.
-
-Oleh karena itu, dikembangkan aplikasi CampEats, yaitu aplikasi pemesanan makanan kampus berbasis Android yang bertujuan untuk mempermudah mahasiswa dalam menelusuri menu, melakukan pemesanan, serta mengelola transaksi secara digital dan terstruktur.
+Pada semester sebelumnya telah dikembangkan aplikasi CampEats versi awal dengan fitur dasar pemesanan makanan. Namun, berdasarkan evaluasi sistem, masih diperlukan peningkatan pada aspek antarmuka pengguna, pengalaman pengguna, serta penambahan fitur manajemen pesanan dan dashboard admin. Oleh karena itu, pada pengembangan lanjutan ini dilakukan redesign UI/UX dan penambahan fitur baru.
 
 ## 1.2 Rumusan Masalah 
 
