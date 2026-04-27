@@ -97,7 +97,7 @@ Antarmuka dirancang menggunakan XML dengan pendekatan:
 | Halaman | Preview | Halaman | Preview |
 |--------|---------|--------|---------|
 | Splash Screen | <img src="UIDesign/Splash.png" width="220"/> | Pilih Bahasa | <img src="UIDesign/Bahasa.png" width="220"/> |
-| Welcome | <img src="UIDesign/Welcome.png" width="220"/> | Login | <img src="UIDesign/SIgn In.png" width="220"/> |
+| Welcome | <img src="UIDesign/Welcome.png" width="220"/> | Login | <img src="UIDesign/SIgnIn.png" width="220"/> |
 | Register | <img src="UIDesign/CreateAccount.png" width="220"/> | Home | <img src="UIDesign/Home(Update).png" width="220"/> |
 | Search | <img src="UIDesign/SearchUI(Update).png" width="220"/> | Cart | <img src="UIDesign/Cart(Update).png" width="220"/> |
 | Profile | <img src="UIDesign/Profile(Update).png" width="220"/> | Detail Produk | <img src="UIDesign/Detail(Update).png" width="220"/> |
