@@ -105,6 +105,14 @@ Berdasarkan implementasi versi sebelumnya, ditemukan beberapa kekurangan:
 | Keranjang Update | <img src="UIDesign/Cart2(Update).png" width="220"/> | Tracking Order | <img src="UIDesign/OrderTracking(Update).png" width="220"/> |
 | Final Order | <img src="UIDesign/FinalizeOrder(Update).png" width="220"/> | Success Order | <img src="UIDesign/Success(Update).png" width="220"/> |/> |
 
+## Cuplikan Tampilan Aplikasi Admin (Design Figma) 
+
+| Halaman | Preview | Halaman | Preview |
+|--------|---------|--------|---------|
+| Dashboard Admin 1 | <img src="UIDesign/DashboardAdmin.png" width="220"/> | Dashboard Admin 2 | <img src="UIDesign/DashboardAdmin2.png" width="220"/> |
+| Dashboard Admin 3 | <img src="UIDesign/DashboardAdmin3.png" width="220"/> | Dashboard Admin 4 | <img src="UIDesign/DashboardAdmin4.png" width="220"/> |
+| Dashboard Admin 5 | <img src="UIDesign/DashboardAdmin5.png" width="220"/> |  |  |
+
 ## 4.4 Pengembangan Fitur Lanjutan
 Pada semester ini dilakukan beberapa pengembangan utama, yaitu:
 
