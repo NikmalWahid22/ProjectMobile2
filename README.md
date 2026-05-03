@@ -109,9 +109,9 @@ Berdasarkan implementasi versi sebelumnya, ditemukan beberapa kekurangan:
 
 | Halaman | Preview | Halaman | Preview |
 |--------|---------|--------|---------|
-| Dashboard Admin 1 | <img src="UIDesign/DashboardAdmin.png" width="220"/> | Dashboard Admin 2 | <img src="UIDesign/DashboardAdmin2.png" width="220"/> |
-| Dashboard Admin 3 | <img src="UIDesign/DashboardAdmin3.png" width="220"/> | Dashboard Admin 4 | <img src="UIDesign/DashboardAdmin4.png" width="220"/> |
-| Dashboard Admin 5 | <img src="UIDesign/DashboardAdmin5.png" width="220"/> |  |  |
+| Dashboard Admin 1 | <img src="AdminUI/DashboardAdmin.png" width="220"/> | Dashboard Admin 2 | <img src="AdminUI/DashboardAdmin2.png" width="220"/> |
+| Dashboard Admin 3 | <img src="AdminUI/DashboardAdmin3.png" width="220"/> | Dashboard Admin 4 | <img src="AdminUI/DashboardAdmin4.png" width="220"/> |
+| Dashboard Admin 5 | <img src="AdminUI/DashboardAdmin5.png" width="220"/> |  |  |
 
 ## 4.4 Pengembangan Fitur Lanjutan
 Pada semester ini dilakukan beberapa pengembangan utama, yaitu:
