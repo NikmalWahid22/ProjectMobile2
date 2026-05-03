@@ -93,6 +93,11 @@ Berdasarkan implementasi versi sebelumnya, ditemukan beberapa kekurangan:
 
 ## 4.3 Cuplikan Tampilan Aplikasi 
 
+## Mockup dan Storyboard 
+
+![Gambar 1](mockup/mockup.png)
+![Gambar 2](mockup/Storyboard.png)
+
 ## Cuplikan Tampilan Aplikasi User (Design Figma) 
 
 | Halaman | Preview | Halaman | Preview |
