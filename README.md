@@ -6,7 +6,7 @@
 ### - Mata Kuliah: Pemrograman Mobile 2
 ### - Dosen Pengampu: Donny Maulana, S.Kom., M.M.S.I.,
 
-### LInk Clickup:  https://sharing.clickup.com/90181799294/l/h/4-90187327418-1/979bc9884f335c5
+### LInk Clickup:  https://app.clickup.com/90181799294/v/s/90187327418
 
 # 1. Pendahuluan 
 
@@ -95,8 +95,8 @@ Berdasarkan implementasi versi sebelumnya, ditemukan beberapa kekurangan:
 
 ## Mockup dan Storyboard 
 
-![Gambar 1](mockup/mockup.png)
-![Gambar 2](mockup/Storyboard.png)
+![Gambar 1](Mockup/mockup.png)
+![Gambar 2](Mockup/Storyboard.png)
 
 ## Cuplikan Tampilan Aplikasi User (Design Figma) 
 
